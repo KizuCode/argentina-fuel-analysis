@@ -28,7 +28,7 @@ Incluye datasets crudos y procesados, notebooks de Colab y un enlace al dashboar
 
 ## Demo
 
-- [Ver Dashboard en Looker Studio](https://lookerstudio.google.com/reporting/5f28b6b2-be3b-469d-85c0-9a8200f71ddf)
+- <a href="https://lookerstudio.google.com/reporting/5f28b6b2-be3b-469d-85c0-9a8200f71ddf" target="_blank">Ver Dashboard en Looker Studio</a>
 - Capturas de ejemplo:
 
 ![imagen1](argentina-fuel-analysis/images/consumo_provincia.png)
