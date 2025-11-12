@@ -31,4 +31,6 @@ Incluye datasets crudos y procesados, notebooks de Colab y un enlace al dashboar
 - <a href="https://lookerstudio.google.com/reporting/584f71bf-929f-46da-b929-7ec8e1a84277" target="_blank">Ver Dashboard en Looker Studio</a>
 - Capturas de ejemplo:
 
-![imagen1](argentina-fuel-analysis/images/consumo_provincia.png)
+![captura_1](argentina-fuel-analysis/images/Análisis_de_Consumo_de_Combustibles_page-0001.jpg)
+![captura_2](argentina-fuel-analysis/images/Análisis_de_Consumo_de_Combustibles_page-0002.jpg)
+![captura_3](argentina-fuel-analysis/images/Análisis_de_Consumo_de_Combustibles_page-0005.jpg)
